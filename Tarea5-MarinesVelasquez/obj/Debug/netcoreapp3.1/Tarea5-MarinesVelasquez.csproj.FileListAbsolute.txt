@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.exe
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.deps.json
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.runtimeconfig.json
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.runtimeconfig.dev.json
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.dll
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\bin\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.pdb
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.AssemblyInfo.cs
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.dll
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.pdb
+C:\Users\User\Desktop\Clases-ejercicios\Ejercicios-C#\EDDatos\Tarea5-MarinesVelasquez\obj\Debug\netcoreapp3.1\Tarea5-MarinesVelasquez.genruntimeconfig.cache
